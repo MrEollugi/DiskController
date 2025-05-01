@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35919.96 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscControllerVer01", "DiscControllerVer01\DiscControllerVer01.csproj", "{DCD5711C-D5DC-4727-94EF-1261AA31F031}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskControllerVer02", "DiscControllerVer02\DiskControllerVer02.csproj", "{52292854-47E5-4FD0-A519-C563D7FC6BEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DCD5711C-D5DC-4727-94EF-1261AA31F031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCD5711C-D5DC-4727-94EF-1261AA31F031}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCD5711C-D5DC-4727-94EF-1261AA31F031}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCD5711C-D5DC-4727-94EF-1261AA31F031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52292854-47E5-4FD0-A519-C563D7FC6BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52292854-47E5-4FD0-A519-C563D7FC6BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52292854-47E5-4FD0-A519-C563D7FC6BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52292854-47E5-4FD0-A519-C563D7FC6BEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D75C7290-7545-477A-A397-83C21FCC7CC3}
+		SolutionGuid = {F40247F7-0D2C-40C2-A14E-995F8D9F8455}
 	EndGlobalSection
 EndGlobal
